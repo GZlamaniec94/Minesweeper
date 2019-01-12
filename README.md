@@ -1,1 +1,1 @@
-# Minesweeper
+# Minesweeper game on cmd.
